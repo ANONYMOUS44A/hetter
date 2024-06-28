@@ -1,7 +1,7 @@
 # H3TT3R
 ## Created By Trabbit
 
-Youtube => @ TrabbitOne
+Youtube => @TrabbitOne
 
 ## Installation
 ```
