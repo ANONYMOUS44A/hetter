@@ -9,5 +9,9 @@ apt update && apt upgrade -y && apt install git && apt install python3 && apt in
 ```
 
 ``
-python3 hetter
+python3 hetter.py
+``
+OR
+``
+cp hetter.py /usr/bin/hetter && chmod +x /usr/bin/hetter && hetter
 ``
